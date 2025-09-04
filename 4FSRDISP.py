@@ -1,4 +1,4 @@
-# Created by Cole Hagen
+# Created by Cole Hagen & Joshua Pianto
 # Takes 4 Inputs from analog pins A1-A4 connected to 4 pressure-sensitive resistors.
 # Displays their values on the TFT screen.
 
